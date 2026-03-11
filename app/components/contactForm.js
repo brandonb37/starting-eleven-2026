@@ -87,6 +87,6 @@ export default function ContactForm() {
       <Fieldset>
         <Submit type="submit">Submit</Submit>
       </Fieldset>
-    </form netlify>
+    </form>
   );
 }
