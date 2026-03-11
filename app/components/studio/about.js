@@ -126,7 +126,7 @@ const LaAboutCompany = () => {
       content: [
         {
           title: "Unloading",
-          description: "We have a temporary,groundlevel loading dock in front of our studio. Vehicles will have to be moved shortly after unloading.",
+          description: "We have a temporary, groundlevel loading dock in front of our studio. Vehicles will have to be moved shortly after unloading.",
         },
         {
           title: "Lockbox",
