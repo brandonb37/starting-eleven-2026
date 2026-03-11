@@ -59,7 +59,7 @@ export default function ContactForm() {
       <strong>Thank you for reaching out!</strong>
     </p>
   ) : (
-    <form
+    <form netlify
       action="/contact?success=true" 
       netlify
       name="contact"
