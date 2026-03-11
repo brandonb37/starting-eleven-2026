@@ -59,7 +59,7 @@ export default function ContactForm() {
       <strong>Thank you for reaching out!</strong>
     </p>
   ) : (
-    <form> netlify
+    <form
       action="/contact?success=true" 
       netlify
       name="contact"
@@ -87,6 +87,6 @@ export default function ContactForm() {
       <Fieldset>
         <Submit type="submit">Submit</Submit>
       </Fieldset>
-    </form>
+    </form netlify>
   );
 }
