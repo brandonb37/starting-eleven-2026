@@ -94,15 +94,15 @@ const LaAboutCompany = () => {
     },
     {
       icon: "/lightingLa.svg",
-      title: "Lightening",
+      title: "Lighting",
       content: [
         {
-          title: "Parking Lot",
-          description: "The studio has a parking lot near the beach.",
+          title: "Natural Light",
+          description: "The studio has features soft, natural light during the day. Can also be blocked out",
         },
         {
-          title: "Valet",
-          description: "Valet parking is available upon request.",
+          title: "Lighting Kits",
+          description: "Strobes, and continuous light available upon request.",
         },
       ],
     },
@@ -111,12 +111,12 @@ const LaAboutCompany = () => {
       title: "Sound",
       content: [
         {
-          title: "Parking Lot",
-          description: "The studio has a parking lot near the beach.",
+          title: "Soundproof",
+          description: "Our studio has soundproofing that is guaranteed to give you quality audio.",
         },
         {
-          title: "Valet",
-          description: "Valet parking is available upon request.",
+          title: "Ambient Noise Description",
+          description: "It is very rare that you hear any loud noises in this area. We do have a soundproof recording booth.",
         },
       ],
     },
@@ -125,12 +125,12 @@ const LaAboutCompany = () => {
       title: "Space access",
       content: [
         {
-          title: "Parking Lot",
-          description: "The studio has a parking lot near the beach.",
+          title: "Unloading",
+          description: "We have a temporary,groundlevel loading dock in front of our studio. Vehicles will have to be moved shortly after unloading.",
         },
         {
-          title: "Valet",
-          description: "Valet parking is available upon request.",
+          title: "Lockbox",
+          description: "Upon confirmation, we will provide you with codes to the gate and access to the building.",
         },
       ],
     },
