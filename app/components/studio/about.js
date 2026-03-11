@@ -135,30 +135,16 @@ const LaAboutCompany = () => {
       ],
     },
     {
-      icon: "/electricalLa.svg",
-      title: "Electrical",
-      content: [
-        {
-          title: "Parking Lot",
-          description: "The studio has a parking lot near the beach.",
-        },
-        {
-          title: "Valet",
-          description: "Valet parking is available upon request.",
-        },
-      ],
-    },
-    {
       icon: "/rulesLa.svg",
       title: "Host rules",
       content: [
         {
-          title: "Parking Lot",
-          description: "The studio has a parking lot near the beach.",
+          title: "Treat the Space with Respect",
+          description: "We are excited to host you, we ask that you respect the space and enjoy all the amenities.",
         },
         {
-          title: "Valet",
-          description: "Valet parking is available upon request.",
+          title: "Reach Out",
+          description: "We are always here to help. Please reach out with any questions.",
         },
       ],
     },
