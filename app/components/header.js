@@ -35,7 +35,7 @@ const LogoWrap = styled.a`
 
   img {
     width: 100%;
-    height: auto;
+    height: 100%;
   }
 `;
 
