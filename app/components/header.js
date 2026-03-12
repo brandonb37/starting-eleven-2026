@@ -28,7 +28,7 @@ const HeaderWrap = styled.div`
 
 const LogoWrap = styled.a`
   display: flex;
-  height: 72px;
+  height: 120px;
   position: relative;
   width: 100%;
   max-width: 400px;
