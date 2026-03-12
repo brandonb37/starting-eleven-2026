@@ -55,6 +55,12 @@ export default function NavComponent({ showSocials = false }) {
             href="https://www.instagram.com/startingeleven.us/"
             target="_blank"
           >
+              <footer>
+  <p>Connect with me:</p>
+  <a href="https://www.linkedin.com/company/startingeleven-us/posts/?feedView=all" target="_blank">
+    LinkedIn
+  </a>
+</footer>
             <svg
               role="img"
               viewBox="0 0 24 24"
