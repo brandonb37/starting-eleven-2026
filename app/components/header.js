@@ -28,14 +28,14 @@ const HeaderWrap = styled.div`
 
 const LogoWrap = styled.a`
   display: flex;
-  height: 46px;
+  height: 58px;
   position: relative;
   width: 100%;
   max-width: 400px;
 
   img {
     width: 100%;
-    height: 100%;
+    height: auto;
   }
 `;
 
