@@ -59,10 +59,9 @@ export default function ContactForm() {
       <strong>Thank you for reaching out!</strong>
     </p>
   ) : (
-    <form action="/contact? success=true" netlify
+    <form name="/contact" method="POST" data-netlify="true">
       name="contact"
       id="contact"
-      method="POST"
     >
       <input type="hidden" name="form-name" value="contact" />
 
